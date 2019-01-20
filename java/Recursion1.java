@@ -1,8 +1,6 @@
 /**
  * 
  */
-package com.dsa.mtech;
-
 /**
  * @author shivaak on 19-Jan-2019
  *
