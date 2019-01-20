@@ -5,7 +5,7 @@
  * @author shivaak on 19-Jan-2019
  *
  */
-public class CodingBatRecursion1 {
+public class Recursion1 {
 
 	/*
 	 * 
